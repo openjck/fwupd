@@ -1,0 +1,5 @@
+[wrap-git]
+directory = fwupd-efi
+url = https://github.com/fwupd/fwupd-efi
+#TODO: tag 1.0 before merging
+revision = main
